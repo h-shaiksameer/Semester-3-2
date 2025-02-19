@@ -9,7 +9,7 @@
 
 # production
 /build
-
+components.json
 # debug
 npm-debug.log*
 yarn-debug.log*
